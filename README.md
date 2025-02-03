@@ -12,6 +12,8 @@ This mini-project aims to create a successful key-logging script, that when exec
 - Python
 
 ## Script
+<img src="https://github.com/user-attachments/assets/8c0097d0-d7fc-4283-9180-378fcfba713a" widge="64">
+
 <code>
 from pynput import keyboard
 
