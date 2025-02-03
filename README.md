@@ -12,8 +12,6 @@ This mini-project aims to create a successful key-logging script, that when exec
 - Python
 
 ## Script
-<img src="https://github.com/user-attachments/assets/8c0097d0-d7fc-4283-9180-378fcfba713a" widge="64">
-
 <code>
 from pynput import keyboard
 
@@ -33,4 +31,8 @@ if __name__ == "__main__":
 </code>
 
 ## How it Works
-## Tips
+1. Keystrokes are listened for using pynut library
+2. When this script is executed, These keystrokes are then appended to a file (keyfile.txt)
+   
+## Tips & Resources
+Keylogging Python Tutorial: <href> https://www.youtube.com/watch?v=mDY3v2Xx-Q4 </href>
