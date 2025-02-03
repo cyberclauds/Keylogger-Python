@@ -1,11 +1,10 @@
-# Keylogger-Python
+# Keylogger-Python &nbsp; <img src="https://github.com/user-attachments/assets/fa080d46-0f3c-4c19-a3fb-6324e1b6cdf5" width="36">
 
 ## Background and Significance 
 Keylogging is the method of storing key-strokes on a device, particularly without the user knowing. Having a program such as this running on your device will result in the unaware surrendering of confidential data to malicious hackers, including login credentials and banking details.
 
 ## Objective
 This mini-project aims to create a successful key-logging script, that when executed, will capture keystrokes made by the user in any environment on the device.
-
 ## Skills Learned
 
 ## Tools/Languages Used
