@@ -5,7 +5,11 @@ Keylogging is the method of storing key-strokes on a device, particularly withou
 
 ## Objective 🥅
 This mini-project aims to create a successful key-logging script, that when executed, will capture keystrokes made by the user in any environment on the device and store them in a text file automatically for viewing. This project therefore demonstrates the basics of keylogging, highlighting the dangers of this simple technique.
-## Skills Learned
+
+## Skills Learned and Improved ✅
+- Learning this attacking technique strengthened my ethical hacking fundamentals.
+- Increased cybersecurity awareness surrounding even simple malicious methods.
+- Honing my Python skills.
 
 ## Tools/Languages Used 🔨
 - VSCode
@@ -22,7 +26,7 @@ def keyPressed(key):
             char = key.char
             logKey.write(char)
         except:
-            print("Error getting char")
+            print("Error: Character could not be obtained.")
 
 if __name__ == "__main__":
     listener = keyboard.Listener(on._press=keyPressed) 
@@ -32,7 +36,16 @@ if __name__ == "__main__":
 
 ## How it Works ❓
 1. Keystrokes are listened for using pynut library
-2. When this script is executed, These keystrokes are then appended to a file (keyfile.txt)
+2. When this script is executed, these keystrokes are then appended to a file (keyfile.txt) and also appear in the terminal
+<br>
+Example shown below:
+![image](https://github.com/user-attachments/assets/ee65fd43-7558-43df-bbf4-e3f605fe3c0d)
+
+
    
 ## Tips & Resources ✍️📖
-Keylogging Python Tutorial by <strong> Shaun Halverson </strong>: <href> https://www.youtube.com/watch?v=mDY3v2Xx-Q4 </href>
+#### Tips
+- Install pynput library first! You can use either 'py -m install pynput' or 'pip install pynput' in the terminal
+
+#### Resources
+- Keylogging Python Tutorial by <strong> Shaun Halverson </strong>: <href> https://www.youtube.com/watch?v=mDY3v2Xx-Q4 </href>
