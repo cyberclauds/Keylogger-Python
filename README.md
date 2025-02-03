@@ -36,16 +36,15 @@ if __name__ == "__main__":
 
 ## How it Works ❓
 1. Keystrokes are listened for using pynut library
-2. When this script is executed, these keystrokes are then appended to a file (keyfile.txt) and also appear in the terminal
-<br>
-Example shown below:
-![image](https://github.com/user-attachments/assets/ee65fd43-7558-43df-bbf4-e3f605fe3c0d)
+2. When this script is executed, these keystrokes are then appended to a file (keyfile.txt) and also appear in the terminal. Example shown below:
+
+<img width="649" alt="keylogger screenshot" src="https://github.com/user-attachments/assets/1944e555-febe-4dd1-940d-3681d8293419" />
 
 
    
 ## Tips & Resources ✍️📖
-#### Tips
+### Tips
 - Install pynput library first! You can use either 'py -m install pynput' or 'pip install pynput' in the terminal
 
-#### Resources
+### Resources
 - Keylogging Python Tutorial by <strong> Shaun Halverson </strong>: <href> https://www.youtube.com/watch?v=mDY3v2Xx-Q4 </href>
