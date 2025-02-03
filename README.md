@@ -35,4 +35,4 @@ if __name__ == "__main__":
 2. When this script is executed, These keystrokes are then appended to a file (keyfile.txt)
    
 ## Tips & Resources
-Keylogging Python Tutorial: <href> https://www.youtube.com/watch?v=mDY3v2Xx-Q4 </href>
+Keylogging Python Tutorial by <strong> Shaun Halverson </strong>: <href> https://www.youtube.com/watch?v=mDY3v2Xx-Q4 </href>
